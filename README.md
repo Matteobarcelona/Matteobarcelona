@@ -50,6 +50,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <a href="https://www.linkedin.com/in/mathieu-d-7a1066145/details/certifications/1713363291769/single-media-viewer/?profileId=ACoAACMR4ukBQb9kgfJHQTY79Ix5Tw4gZE9bPBo"><img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=EC-Council&logoColor=white" /></a>
 </div>
 
+## Learnings and CTF
+<div>
+I have a try Hack Me subscription since two years so I learnt a lot on this platform and I am currently in the top 2%.
+<a href="https://tryhackme.com/p/Mand0Hack3r"><img src="https://tryhackme-badges.s3.amazonaws.com/Mand0Hack3r.png" alt="TryHackMe"></a>
+</div>
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
