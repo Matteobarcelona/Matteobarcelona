@@ -53,6 +53,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Learnings and CTF
 <div>
 I have a try Hack Me subscription since two years so I learnt a lot on this platform and I am currently in the top 2%.
+
 <a href="https://tryhackme.com/p/Mand0Hack3r"><img src="https://tryhackme-badges.s3.amazonaws.com/Mand0Hack3r.png" alt="TryHackMe"></a>
 </div>
 
