@@ -46,12 +46,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### IPS / IDS
 <div>
     <img src="https://img.shields.io/badge/-Snort-1679A7?&style=for-the-badge&logo=Wiresha&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Snort-EF3B2D?style=for-the-badge&logo=Snort&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <a href="https://certs.ine.com/db381309-80a6-4d05-90e2-323f6b2fa51d"><img src="https://img.shields.io/badge/-eJPT%20v2-FF0000?style=for-the-badge&logo=INE&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mathieu-d-7a1066145/details/certifications/1713363291769/single-media-viewer/?profileId=ACoAACMR4ukBQb9kgfJHQTY79Ix5Tw4gZE9bPBo"><img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=EC-Council&logoColor=white" /></a>
