@@ -46,12 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-eJPT%20v2-FF0000?style=for-the-badge&logo=INE&logoColor=white" />
-<img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=EC-Council&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<a href="https://certs.ine.com/db381309-80a6-4d05-90e2-323f6b2fa51d"><img src="https://img.shields.io/badge/-eJPT%20v2-FF0000?style=for-the-badge&logo=INE&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mathieu-d-7a1066145/details/certifications/1713363291769/single-media-viewer/?profileId=ACoAACMR4ukBQb9kgfJHQTY79Ix5Tw4gZE9bPBo"><img src="https://img.shields.io/badge/-Certified%20Ethical%20Hacker-FF0000?style=for-the-badge&logo=EC-Council&logoColor=white" /></a>
 </div>
 
 ## Projects
