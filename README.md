@@ -14,8 +14,8 @@ My professional journey has led me to develop a passion for cybersecurity, and I
 | Skill                                                                            | Associated Project         |
 |----------------------------------------------------------------------------------|----------------------------|
 | identify phishing emails and design security awareness training courses          | <a href="https://github.com/Matteobarcelona/Mastercard-Project">Mastercard Project</a>|
-| cybersecurity threat analysis simulation | <a href="[https://google.com](https://github.com/Matteobarcelona/AIG-Project/blob/main/README.md)">AIG Project</a>|
-| Ransomware: write a python script for bruteforcing decryption keys.         | <a href="[https://google.com](https://github.com/Matteobarcelona/AIG-Project/blob/main/README.md)">AIG Project</a>|
+| cybersecurity threat analysis simulation | <a href="https://github.com/Matteobarcelona/AIG-Project/blob/main/README.md">AIG Project</a>|
+| Ransomware: write a python script for bruteforcing decryption keys.         | <a href="https://github.com/Matteobarcelona/AIG-Project/blob/main/README.md">AIG Project</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
