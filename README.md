@@ -47,6 +47,11 @@ My professional journey has led me to develop a passion for cybersecurity, and I
     <img src="https://img.shields.io/badge/-Snort-1679A7?&style=for-the-badge&logo=Wiresha&logoColor=white" />
 </div>
 
+### Web App Security
+<div>
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF5733?style=for-the-badge&logo=BurpSuite&logoColor=white" />
+</div>
+
 ## Certifications
 <div>
 <a href="https://certs.ine.com/db381309-80a6-4d05-90e2-323f6b2fa51d"><img src="https://img.shields.io/badge/-eJPT%20v2-FF0000?style=for-the-badge&logo=INE&logoColor=white" /></a>
