@@ -16,12 +16,11 @@ My professional journey has led me to develop a passion for cybersecurity, and I
 | identify phishing emails and design security awareness training courses          | <a href="https://github.com/Matteobarcelona/Mastercard-Project">Mastercard Project</a>|
 | cybersecurity threat analysis simulation | <a href="https://github.com/Matteobarcelona/AIG-Project/blob/main/README.md">AIG Project</a>|
 | Ransomware: write a python script for bruteforcing decryption keys.         | <a href="https://github.com/Matteobarcelona/AIG-Project/blob/main/README.md">AIG Project</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Incident Response Planning and Triage      | <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/README.md">Commonwealth Bank Project</a> |
+| Password Security                  | <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/README.md">Commonwealth Bank Project</a>|
+| Penetration Testing | <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/README.md">Commonwealth Bank Project</a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
