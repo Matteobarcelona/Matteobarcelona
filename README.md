@@ -19,7 +19,7 @@ My professional journey has led me to develop a passion for cybersecurity, and I
 | Incident Response Planning and Triage      | <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/README.md">Commonwealth Bank Project</a> |
 | Password Security                  | <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/README.md">Commonwealth Bank Project</a>|
 | Penetration Testing | <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/README.md">Commonwealth Bank Project</a>|
-| Building a home lab | <a href="https://github.com/Matteobarcelona/30-Days-SOC-Analyst-Challenge/blob/main/README.md">Building is a home lab</a>|
+| Building a home lab | <a href="https://github.com/Matteobarcelona/30-Days-SOC-Analyst-Challenge/blob/main/README.md">30 days SOC Analyst Challenge</a>|
 
 ## Tools
 
