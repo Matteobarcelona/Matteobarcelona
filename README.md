@@ -38,6 +38,7 @@ My professional journey has led me to develop a passion for cybersecurity, and I
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-ELK-005571?&style=for-the-badge&logo=ELK&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20Azure%20Sentinel-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
 ### IPS / IDS
