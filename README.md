@@ -6,7 +6,7 @@ As an accomplished professional with over two decades of experience in customer 
 
 ## Objective
 
-My professional journey has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+"I am currently seeking a position as a Cybersecurity Analyst or Junior Penetration Tester. If you have an opportunity that aligns with my skills and aspirations, feel free to connect or reach out—I’d love to discuss how I can contribute to your team!"
 
 ## Skills
 
@@ -20,6 +20,8 @@ My professional journey has led me to develop a passion for cybersecurity, and I
 | Password Security                  | <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/README.md">Commonwealth Bank Project</a>|
 | Penetration Testing | <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/README.md">Commonwealth Bank Project</a>|
 | Building a home lab | <a href="https://github.com/Matteobarcelona/30-Days-SOC-Analyst-Challenge/blob/main/README.md">30 days SOC Analyst Challenge (ongoing)</a>|
+| Web Developer Full Stack | <a href="https://github.com/mattbarcelona/">Bootcamp for 6 months, with javascript as core programming language</a>|
+
 
 ## Tools
 
@@ -69,6 +71,7 @@ I have a Try Hack Me subscription since two years so I do a lot of practice and 
 - <a href="https://github.com/Matteobarcelona/AIG-Project/blob/main/README.md">AIG Project</a>
 - <a href="https://github.com/Matteobarcelona/Commonwealth-Bank/blob/main/README.md">Commonwealth Bank Project</a>
 - <a href="https://github.com/Matteobarcelona/30-Days-SOC-Analyst-Challenge/blob/main/README.md">30 days SOC Analyst Challenge (ongoing)</a>
+- <a href="https://github.com/mattbarcelona/"> Web development full stack, Bootcamp for 6 months, with javascript as core programming language</a>|
 
 ## Trainings
 
